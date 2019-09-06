@@ -51,7 +51,9 @@ function counter() {
     
   }
 }
-
+//all constants on top and declaration variables should be on top
+//delete all setTimeout ,wtf, are you want to broke my computer or whatttttttt
+//change names of variables
 let DidYouFlipTheCard = false;
 let firstCard = {};   
 let secondCard = {}; 
